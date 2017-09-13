@@ -13,7 +13,6 @@
 
 //Minie Park
 #include"graphics.h"//board, ui, ... img files
-#include"dot.h"//if player eat dot ::= score up
 #include"player.h"//cases : player touch dot or ghost
 
 //Juyeong Yeon
